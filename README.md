@@ -1,9 +1,10 @@
 ### Hi there, I'm Aashir Farooq! 👋
 
-I'm a BS Computer Engineering student with a passion for data science, programming, and emerging technologies. Currently, I'm diving into exciting projects at the intersection of IoT, ML, Data Science, and Cloud computing for my final year project.
+I'm a Full Stack Software Engineer with a passion for Web Development, Machine Learning and Cloud Development. Currently, I'm diving into exciting projects at the intersection of IoT, ML, Data Science, Web Dev and Cloud computing for my final year project.
 
 👨‍💻 Here's what you'll find in this repo:
 
+- 🎓 **Full Stack Applications:** My mostly focused domain.
 - 🤖 **Machine Learning Projects:** Exploring the world of AI and ML.
 - 📚 **Data Science:** Jupyter notebooks and data analysis.
 - 💡 **IoT & Cloud:** My foray into IoT and cloud technologies.
