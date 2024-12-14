@@ -1,12 +1,12 @@
 # Hi there, I'm Aashir Farooq! 👋
-I'm a Computer Engineer with a passion for **Full Stack Software Development** and **Cloud Computing**. After diving into data science, I've shifted my focus to building scalable and high-performance web applications. I'm excited to showcase my journey through this repository.
+I'm a Computer Engineer passionate about **Full Stack Development** and **Cloud Computing**. After working in data science, I've shifted to building scalable web applications, and I'm excited to share my projects here.
 
-## 👨‍💻 Here's what you'll find in this repo:
-- 💻 **Full Stack Applications**:  
-  Web applications built with modern technologies like React, Node.js, Django, and integrated with cloud platforms such as AWS and Azure. These projects demonstrate my expertise in both front-end and back-end development, delivering responsive and functional user experiences.
+## 👨‍💻 Projects in this repo:
+- 💻 **Full Stack Apps**:  
+  Web applications using React, Node.js, Django, and cloud platforms like AWS and Azure, focusing on both front-end and back-end development.
 - 🌐 **Backend Development**:  
-  RESTful APIs, database design, and server-side programming with frameworks like Express and Django. My projects highlight best practices for performance, security, and scalability.
+  RESTful APIs, database design, and server-side programming with frameworks like Express and Django.
 - ☁️ **Cloud & DevOps**:  
-  Cloud-based solutions, serverless architecture, and deployment pipelines. You'll find projects utilizing cloud services for scalability, automation, and high availability, with hands-on experience in CI/CD workflows.
-- 🤖 **Machine Learning Projects**:  
-  While my main focus is now on software development, you can still explore a smaller collection of machine learning models and algorithms, applied to real-world problems.
+  Cloud solutions, serverless architectures, and CI/CD pipelines for scalable and automated deployments.
+- 🤖 **Machine Learning**:  
+  A smaller collection of ML models and algorithms, applied to real-world problems.
