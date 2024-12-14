@@ -10,6 +10,3 @@ I'm a Computer Engineer with a passion for **Full Stack Software Development** a
   Cloud-based solutions, serverless architecture, and deployment pipelines. You'll find projects utilizing cloud services for scalability, automation, and high availability, with hands-on experience in CI/CD workflows.
 - 🤖 **Machine Learning Projects**:  
   While my main focus is now on software development, you can still explore a smaller collection of machine learning models and algorithms, applied to real-world problems.
-
-## 🤝 Let's Connect!
-Feel free to explore, contribute, or reach out if you're interested in discussing full-stack development, cloud architecture, or any related technology. I'm always open to collaboration, coding challenges, and engaging discussions. Let’s build amazing things together!
