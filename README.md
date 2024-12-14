@@ -1,12 +1,15 @@
+# Hi there, I'm Aashir Farooq! 👋
+I'm a Computer Engineer with a passion for **Full Stack Software Development** and **Cloud Computing**. After diving into data science, I've shifted my focus to building scalable and high-performance web applications. I'm excited to showcase my journey through this repository.
 
-### Hi there, I'm Aashir Farooq! 👋
-I'm a Computer Engineer with a deep passion for Data Science, Artificial Intelligence, and Cloud Computing. Recently, I completed my final year project, which integrated IoT, Machine Learning, Data Science, and Cloud Computing.
+## 👨‍💻 Here's what you'll find in this repo:
+- 💻 **Full Stack Applications**:  
+  Web applications built with modern technologies like React, Node.js, Django, and integrated with cloud platforms such as AWS and Azure. These projects demonstrate my expertise in both front-end and back-end development, delivering responsive and functional user experiences.
+- 🌐 **Backend Development**:  
+  RESTful APIs, database design, and server-side programming with frameworks like Express and Django. My projects highlight best practices for performance, security, and scalability.
+- ☁️ **Cloud & DevOps**:  
+  Cloud-based solutions, serverless architecture, and deployment pipelines. You'll find projects utilizing cloud services for scalability, automation, and high availability, with hands-on experience in CI/CD workflows.
+- 🤖 **Machine Learning Projects**:  
+  While my main focus is now on software development, you can still explore a smaller collection of machine learning models and algorithms, applied to real-world problems.
 
-👨‍💻 Here's what you'll find in this repo:
-
-- 🤖 Machine Learning Projects: A collection of projects exploring various aspects of AI and machine learning, from predictive models to deep learning.
-- 📊 Data Science: Comprehensive data analysis projects and Jupyter notebooks showcasing my work in data science.
-- 💻 IoT & Cloud: Innovative projects integrating IoT devices with cloud-based solutions for scalable and efficient applications.
-- 🌐 Full Stack Applications: Web applications built using modern frameworks, demonstrating my full stack development skills.
-- 🎮 Games: Fun and interactive game projects I've developed as a hobby.
-Feel free to explore, contribute, or reach out to discuss anything related to data science, AI, ML, or technology. I'm always open to collaboration, coding challenges, or engaging discussions. Let's connect and learn together!
+## 🤝 Let's Connect!
+Feel free to explore, contribute, or reach out if you're interested in discussing full-stack development, cloud architecture, or any related technology. I'm always open to collaboration, coding challenges, and engaging discussions. Let’s build amazing things together!
