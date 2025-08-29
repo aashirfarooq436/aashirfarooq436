@@ -1,11 +1,11 @@
 ## Hi there, I'm Aashir Farooq! 👋
-I'm a Computer Engineer passionate about **Full Stack Development** and **Cloud Computing**. After working in data science, I've shifted to building scalable web applications, and I'm excited to share my projects here.
+I'm a Computer Engineer passionate about **Full Stack Development** and **Cloud Computing**. After working in data science for 6 months, I've shifted my career to software engineering and provide software solutions, and I'm excited to share my projects here.
 
-### 👨‍💻 Projects in this repo:
+### 👨‍💻 Projects You Can Expect Here:
 - 💻 **Full Stack Apps**:  
-  Web applications using React, Node.js, Django, and cloud platforms like AWS and Azure, focusing on both front-end and back-end development.
+  Web applications using NextJS, Node.js, and cloud platforms like AWS and Azure, focusing on both front-end and back-end development.
 - 🌐 **Backend Development**:  
-  RESTful APIs, database design, and server-side programming with frameworks like Express and Django.
+  RESTful APIs, database design, and server-side programming with frameworks like ExpressJS and NestJS.
 - ☁️ **Cloud & DevOps**:  
   Cloud solutions, serverless architectures, and CI/CD pipelines for scalable and automated deployments.
 - 🤖 **Machine Learning**:  
