@@ -1,31 +1,36 @@
-# Hi, I'm Aashir 👋
+<p align="center">
+  <img src="assets/hero.svg" alt="Aashir Farooq, Software Engineer. Backend-focused full-stack. Building production SaaS in TypeScript and Python. Open to new opportunities. Lahore, Pakistan." width="100%"/>
+</p>
 
-**Software Engineer** · backend-focused full-stack · Lahore, Pakistan  
-I build production SaaS in TypeScript and Python, from API design and billing to AI features and cloud deployment.
+<p align="center">
+  <img src="assets/metrics.svg" alt="2+ years shipping, 5 production SaaS products, 2,000+ commits on these projects, 170+ users on LiveDab" width="100%"/>
+</p>
 
-<a href="https://www.linkedin.com/in/aashirfarooqmir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:aashirfarooq436@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Experience-2%2B%20years-2F80ED?style=for-the-badge" alt="2+ years of experience"/>
-<img src="https://img.shields.io/badge/Production%20SaaS-5%20shipped-2F80ED?style=for-the-badge" alt="5 production SaaS products shipped"/>
-<img src="https://img.shields.io/badge/Commits%20on%20these%20projects-2%2C000%2B-2F80ED?style=for-the-badge" alt="2,000+ commits across these projects"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aashirfarooqmir/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="50"/></a>&nbsp;&nbsp;
+  <a href="mailto:aashirfarooq436@gmail.com"><img src="assets/btn-email.svg" alt="Email me" height="50"/></a>
+</p>
 
-- 🚀 Delivered five production SaaS products as lead, core or sole engineer, from the first commit to launch.
-- 🧱 Clean/Hexagonal Architecture, DDD and SOLID, so business rules stay independent of frameworks and testable.
-- 🤖 AI in production: realtime voice agents, LLM routing, voice synthesis and NER + LLM document redaction.
-- 💳 Multi-tenant auth, role-based access, Stripe billing, credit systems and deployment.
+<p align="center"><img src="assets/title-about.svg" alt="About" width="100%"/></p>
 
-| | |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" alt="TypeScript, JavaScript, Python"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&theme=dark" alt="Node.js, NestJS, Express, FastAPI"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind CSS"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma&theme=dark" alt="PostgreSQL, MongoDB, Supabase, Prisma"/> |
-| **Cloud and DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,git&theme=dark" alt="AWS, GCP, Docker, GitHub Actions, Vercel, Git"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway"/> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Jest, Vitest"/> |
-| **AI, auth and integrations** | <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude"/> <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio"/> <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="Auth0"/> |
+<p align="center">
+  <img src="assets/about.svg" alt="Five production SaaS products shipped as lead, core or sole engineer. Clean/Hexagonal Architecture, DDD and SOLID. AI in production: realtime voice agents, LLM routing, voice synthesis, AI redaction. Multi-tenant auth, role-based access, Stripe billing, credit systems, deployment. Ask me about backend architecture, realtime voice AI and SaaS billing." width="100%"/>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=aashirfarooq436&theme=github-dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=aashirfarooq436&theme=default&hide_border=true" alt="GitHub contribution streak"/>
-</picture>  
-<sub>Most of my work is in private repositories, so public activity undercounts it.</sub>
+<p align="center"><img src="assets/title-stack.svg" alt="Tech stack" width="100%"/></p>
+
+<p align="center">
+  <img src="assets/stack.svg" alt="Languages: TypeScript, JavaScript, Python. Backend: Node.js, NestJS, Express, FastAPI. Frontend: Next.js, React, Tailwind CSS. Databases: PostgreSQL, MongoDB, Supabase, Prisma. Cloud and DevOps: AWS, GCP, Docker, GitHub Actions, Vercel, Railway, Git. Testing: Jest, Vitest. AI and integrations: OpenAI, Anthropic Claude, Google Gemini, ElevenLabs, Hugging Face, Stripe, Twilio, Auth0." width="100%"/>
+</p>
+
+<p align="center"><img src="assets/title-github.svg" alt="GitHub" width="100%"/></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aashirfarooq436&background=0E1424&border=1D2744&stroke=1D2744&ring=8B7BFF&fire=FF5CAA&currStreakNum=FFFFFF&currStreakLabel=8B7BFF&sideNums=FFFFFF&sideLabels=8A96BD&dates=8A96BD&border_radius=18" alt="GitHub contribution streak"/>
+  <br/>
+  <sub>Most of my work is in private repositories, so public activity undercounts it.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" alt="Still shipping" width="100%"/>
+</p>
