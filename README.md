@@ -6,6 +6,6 @@ I'm a software engineer who builds SaaS products end to end: the billing, the us
 - 🧱 Clean/Hexagonal architecture, DDD and SOLID
 - 🤖 AI in production: realtime voice agents, LLM routing, voice synthesis, AI redaction
 - 🌍 Working worldwide, available to build
-- 🌐 Portfolio: [aashirf.vercel.app](https://aashirfarooq.com)
+- 🌐 Portfolio: [aashirfarooq.com](https://aashirfarooq.com)
 
 **Stack:** TypeScript, JavaScript, Python · Node.js, NestJS, Express, FastAPI · Next.js, React, Tailwind CSS, shadcn/ui
